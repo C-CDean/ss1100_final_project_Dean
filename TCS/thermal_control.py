@@ -11,7 +11,11 @@ def process_temperature(input_temp, target_temp):
     applies a function to move it towards equilibrium.
     It should return a single float as the output indicating 
     the new, altered temperature"""
-    return 0 # Delete this line and insert your code starting here!
+    scaled_temp_delta = 0.25 * abs(target_temp - input_temp)
+    if input_temp > target_temp:
+        corrected_temp = input_temp - scaled_temp_delta
+    else: corrected_temp = input_temp + scaled_temp_delta
+    return corrected_temp
 
 
 ################### DO NOT EDIT BELOW THIS LINE ############################
