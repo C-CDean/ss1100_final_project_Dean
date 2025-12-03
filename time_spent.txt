@@ -1,2 +1,10 @@
 Chase (ADC): 40min
 Chase (TCS): 90min
+Ben (EPS): 60min
+Ash (RCS): 80min
+JP (C&DH): 70min
+JP (Payload): 40min
+
+All (writeup): 45min
+
+Total: ~7hrs. 
