@@ -45,6 +45,8 @@ Once you have completed the tasks for all the individual subsystems, you can tac
 
 1.  **What was your experience in collaborating?** Talk about what steps you used to ensure the inputs from group members worked - code testing, GitHub branch management, etc. - and how you divided up the workload for the project.
 
+	Collaborating on Github was etremely efficient. We began by dividing the work by control subsystem. Following this we each worked on our individual portions and verified with a team member prior to commiting to main. 
+
 2.  **What was the most challenging section, and why?** Feel free to provide more than one response if there is a difference of opinion in the group. 
 
 	While no section was considered technically difficult, the TCS section's instructions were difficult to follow. Chase was unsure of what exactly he was supposed to do and did the check + portion before realizing he needed to also make another function for the check portion. He probably just did not read the instructions thoroughly the first time. 
