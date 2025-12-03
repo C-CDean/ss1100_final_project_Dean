@@ -47,7 +47,18 @@ Once you have completed the tasks for all the individual subsystems, you can tac
 
     As a group we found collaborating over GitHub extremley efficient. We began the process by dividing up the workload by space system subsection. Following this, we worked on our individual coding assignments in our internal network and verified with a team member prior to commiting to main.
     
-3.  **What was the most challenging section, and why?** Feel free to provide more than one response if there is a difference of opinion in the group.
-4.  **If you employed Generative AI tools, how did you do so?** Discuss which tools you used, the prompts you utilized, how you ensured the results were valid, and how you integrated the code into your tasks.
-5.  **What other resources did you use to find solutions?** Online sites, books, references, etc.
-6.  **In what way could this project be improved for future quarters?**
+2.  **What was the most challenging section, and why?** Feel free to provide more than one response if there is a difference of opinion in the group.
+
+    While no section was considered technically difficult, the TCS section's instructions were difficult to follow. Chase was unsure of what exactly he was supposed to do and did the check + portion before realizing he needed to also make another function for the check portion. He probably just did not read the instructions thoroughly the first time. 
+
+3.  **If you employed Generative AI tools, how did you do so?** Discuss which tools you used, the prompts you utilized, how you ensured the results were valid, and how you integrated the code into your tasks.
+
+    JP used ChatGPT to generate the python code contained within CD&H and Payload modules. Prompts focused on taking the instructions and translating them into bullets to provide to the GAI tool. Results were tested through independent testing (ie developing test scenarios) as well as against AI generated test cases. Generative AI was exceptionally useful in developing edge case scenarios for error handling and additional test cases beyond ones provided in the instruction set. 
+
+4.  **What other resources did you use to find solutions?** Online sites, books, references, etc.
+
+    Resources used include: ChatGPT, w3schools, Python documentation, geeksforgeeks. 
+
+5.  **In what way could this project be improved for future quarters?**
+
+    The project can be improved for future quarters by making a final test case with all of the modules together. This can force the groups to work on API's/ICDs to make the modules interoperate during a scenario. 
